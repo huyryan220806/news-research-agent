@@ -233,6 +233,7 @@ Kiểm tra trạng thái backend.
 ## Tác giả
 
 **Nguyễn Đình Huy** — Sinh viên Đại học Văn Lang (VLU)
+**Mã số sinh viên:** 2474802010140
 
 - GitHub: [@huyryan220806](https://github.com/huyryan220806)
 
